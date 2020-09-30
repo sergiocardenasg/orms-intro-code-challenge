@@ -2,6 +2,12 @@
 
 ## Part 1: Conceptual questions
 1. What is object relational mapping and why is it useful?
+-- Using relational databases through via objects on programming language of choice. 
+-- Usefulness:
+    - Using programming languages;
+    - Keeps program in same language;
+    - Working with OOP;
+    - Less code repetition through abstraction
 
 ## Part 2: Coding Challenge - Building the DB and making some queries using ORM
 * You've been working on building a real estate application for your friend. So far, you've done some domain modeling, mapped out the models and their relationships, and built classes with methods to reflect these relationships. You have also planned out the structure of your relational database. 
